@@ -2,7 +2,7 @@
 
 to run the project,
 
-first install the following:
+install the following:
 
 
 >npm install gulp-cli -g
